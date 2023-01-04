@@ -11,7 +11,7 @@
 <body>
 <div id="home" class="big-bg">
 <header class="page-header wrapper">
-<h1><a href="f.html"><img class="logo" src="C:\Users\518_10\Desktop\新增資料夾 (2)\pic\下載.jfif" alt="WCB Cafe
+<h1><a href="f.html"><img class="logo"src=https://github.com/as64011234/as64011234.github.io/blob/main/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE%20(2)/pic/%E4%B8%8B%E8%BC%89.jfif alt="WCB Cafe
 首頁"></a></h1>
 <nav>
 <ul class="main-nav">
