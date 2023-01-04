@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="zh-Hant-Tw">
+ <head>
+ <meta charset="UTF-8">
+ <title>WCB Cafe</title>
+<meta name="description" content="提供綜合咖啡與健康有機食物的咖啡店">
+ </head>
+ <body>
+
+ </body>
+</html>
